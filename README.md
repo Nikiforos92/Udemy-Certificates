@@ -11,5 +11,5 @@ My completed Udemy courses and certificates.
 
 ✅React The Complete Guide 2025 (incl. Next.js, Redux)
 - 👨‍🏫 Instructor: Maximilian Schwarzmüller
-- 📅 Started: June 2025
-- 📈 Progress 99% Completed 
+- 📅 Completed: January 2026
+- 🔗 Certificate: [Click here](https://www.udemy.com/certificate/UC-65a5cb9a-1f5c-4f34-8609-e63d2d57759d/)
