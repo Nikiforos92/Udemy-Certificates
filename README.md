@@ -15,4 +15,4 @@ My completed Udemy courses and certificates.
 ✅️DaVinci Resolve 20 Mastery: Complete Video Editing Bootcamp
 - 👨‍🏫 Instructor: Louay Zambarakji
 - 📅 Started: January 2026
-- 📈 Progress: 12%
+- 📈 Progress: 21%
